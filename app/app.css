@@ -12,7 +12,6 @@ The imported CSS rules must precede all other types of rules.
 */
 @import '~nativescript-theme-core/css/core.light.css';
 
-
 .card {
     background-color: #fff;
     color: #4d4d4d;
